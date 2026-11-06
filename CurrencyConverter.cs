@@ -19,7 +19,7 @@ namespace ConsoleApp2.services
         /// </summary>
         static CurrencyConverter()
         {
-            UsdRate = 95.5;
+            UsdRate = 92.5;
             EurRate = 100.2;
             Console.WriteLine("[CurrencyConverter]: Загрузка курсов валют...");
         }
